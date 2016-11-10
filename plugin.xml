@@ -52,9 +52,9 @@
             </feature>
         </config-file>
         
-        <header-file src="src/ios/CardRaderPlugin.h" />
-        <header-file src="src/ios/iMagRead.h" />
-        <header-file src="src/ios/CardRaderPlugin.m" />
+        <header-file src="src/ios/src/CardRaderPlugin.h" />
+        <header-file src="src/ios/src/iMagRead.h" />
+        <header-file src="src/ios/src/CardRaderPlugin.m" />
 	</platform>
 
 </plugin>
